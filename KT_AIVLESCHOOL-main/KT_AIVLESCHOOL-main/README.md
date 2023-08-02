@@ -29,4 +29,4 @@
 23.5.17~5.25
 
 #### 상세 설명
-https://www.notion.so/KT-AIVLE-SHCOOL-MINI-PROJECT-1e6ac3c57f0647cb80678715ae60cf9b?pvs=4
+https://www.notion.so/KT-AIVLE-MINI-PROJECT-4cec0c3b252d420fbb5dbbc817bc109f?pvs=4
